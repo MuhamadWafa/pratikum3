@@ -36,9 +36,13 @@ Print()
 ````
 Secara default,fungsi print() akan berakhir dengan baris baru,dan akan secara otomatis karakter baris baru di akhir outputnya
 inilah hasil program tersebut:
+
 ![WhatsApp Image 2024-10-20 at 14 45 20_8564751e](https://github.com/user-attachments/assets/09faa6ef-e7d7-4573-a214-0f04f3e5850d)
+
 dan ini hasil tanpa menggunakan fungsi print() di tengah pada kode program di atas:
+
 ![WhatsApp Image 2024-10-20 at 14 45 30_d59d567c](https://github.com/user-attachments/assets/27755aff-3764-4ed2-b870-e8522c430706)
+
 
 
 
