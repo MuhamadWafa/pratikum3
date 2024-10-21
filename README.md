@@ -1,1 +1,10 @@
-# pratikum3
+# BIODATA
+# NAMA  : MUHAMAD WAFA MUFIDA ZULFI
+# KELAS : TI.24.A4
+# NIM   : 312410334
+# MATKUL: BAHASA PEMOGRAMAN
+
+![WhatsApp Image 2024-10-20 at 10 55 01_a29547f6](https://github.com/user-attachments/assets/68674815-7eae-4d1a-b380-f2d1dae8b950)
+
+# PRAKTIKUM 3
+# LATIHAN 1
