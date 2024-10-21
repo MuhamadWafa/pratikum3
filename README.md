@@ -200,6 +200,66 @@ dan diagram alur sebagai berikut:
 
 ![GARCIA FLOWCHART](https://github.com/user-attachments/assets/5808aacb-6633-4284-b06e-4adb7d197671)
 
+# MENENTUKAN BILANGAN TERBESAR DARI N DAN BERIKAN ANGKA 0
+
+```PYTHON
+while True:   
+    N = int(input("masukan angka: "))
+
+    if N == 0:
+        print(f"angaka terbesar adalah: {max}")
+        break
+    if N > max:
+        max = N
+````
+
+Untuk menentukan bilangan terbesar dari n dalam Python, Anda bisa menggunakan fungsi max()
+
+```PYTHON
+max = 0
+````
+
+Masukkan daftar angka ke fungsi max(), Fungsi max() akan mengembalikan angka terbesar dalam daftar
+
+Fungsi max() adalah fungsi bawaan Python yang berguna untuk menemukan nilai terbesar dalam suatu iterable atau dalam serangkaian argumen reguler.
+
+```PYTHON
+if N == 0:
+        print(f"angka yang terbesar adalah: {max}")
+        break
+````
+Fungsi ini jika Kita memasukan input integer yaitu 0 akan berlanjut ke fungsi break program dihentikan yang artinya selesai.
+
+```PYTHON
+if N > max:
+        max = N
+````
+
+Jika Inputan yang kita masukan lebih besar dari fungsi max() di atas, program akan melanjutkan proses max = N yang artinya Angka terbesar akan Mencetak Inputan Bilangan yang kita masukan yang terbesar di cetak
+
+```PYTHON
+while True:
+````
+
+While true: adalah konstruksi perulangan dalam bahasa pemrograman Python yang memungkinkan blok kode diulang tanpa batas. dan karna di kode program diatas ada fungsi While True: Program terus berlanjut terus menerus, dan ketika kita ingin berhenti saya berikan keputusan N==0 dengan fungsi di bawah break seperti di atas yang berarti Inputan Integer yang di angka masukan 0 program akan dihentikan dan memunculkan cetakan yang terbesar
+
+dan ini hasil program tersebut:
+
+![WhatsApp Image 2024-10-21 at 19 40 16_467c5c04](https://github.com/user-attachments/assets/61109ad3-3e41-405e-871c-5f87acdf0c93)
+
+tangkapan layar kode program
+
+<img width="960" alt="Screenshot 2024-10-21 180736" src="https://github.com/user-attachments/assets/b4a3ce4b-7e68-4234-ae95-3d41bcd32a8b">
+
+dan hasil flowchart dari program tersebut
+
+![WhatsApp Image 2024-10-21 at 19 20 49_1d6bf04e](https://github.com/user-attachments/assets/0ef5d5b3-53c3-4725-b3e1-45da4e67b0e4)
+
+
+
+
+
+
 
 
 
